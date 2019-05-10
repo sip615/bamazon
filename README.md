@@ -6,7 +6,7 @@ This is a storefront in the CLI, which makes you look like a super cool hacker e
 
 ## The database
 
-First you will need to initialize your own datase. The Schema file provided contains the appropriate database structure, tables, ids, etc.
+First you will need to initialize your own database. The Schema file provided contains the appropriate database structure, tables, ids, etc.
 
 Make sure to populate your database credentials with your own .env file.
 
@@ -17,3 +17,5 @@ Run the program by opening up your terminal, and navigating to the directory in 
 `node bamazonCustomer.js`
 
 At this point you will see a table in the terminal with a list of products, along with their corresponding information. Simply follow the on-screen prompts to utilize the app.
+
+Happy hacking! (READ: shopping!)
