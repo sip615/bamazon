@@ -24,7 +24,7 @@ CREATE TABLE `products`
 SELECT *
 FROM products;
 
---Populate the table--
+--Populate the table, (this code was provided with TA assistance)--
 INSERT INTO products
     (product_name, department_name, price, stock_quantity)
 VALUES
