@@ -1,6 +1,8 @@
 --Creates a new bamazon database, and drops anything called bamazon if it already exists--
 DROP DATABASE IF EXISTS bamazon;
 CREATE DATABASE bamazon;
+--Make sure to use the bamazon database--
+USE bamazon;
 --Creates the products table for the bamazon CLI--
 CREATE TABLE `products`
 (
