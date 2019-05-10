@@ -19,3 +19,9 @@ Run the program by opening up your terminal, and navigating to the directory in 
 At this point you will see a table in the terminal with a list of products, along with their corresponding information. Simply follow the on-screen prompts to utilize the app.
 
 Happy hacking! (READ: shopping!)
+
+## Demo
+
+For a demo of the CLI, please copy and paste the following url into your browser.
+
+`https://www.screencast.com/t/1oFf9diVYk`
